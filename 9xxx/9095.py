@@ -27,7 +27,7 @@ if __name__ == "__main__":
     T = int(input().strip())  # Test Case
 
     for i in range(T):
-        arr_num.append(int(input().strip()))  # 1<= k <= 14
+        arr_num.append(int(input().strip()))
 
     init()
 
